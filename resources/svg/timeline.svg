@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="chart" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="6000px" height="3000px" viewBox="0 0 6000 3000" enable-background="new 0 0 6000 3000" xml:space="preserve">
+<g id="scale">
+	<path id="baseline.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M336.108,2689.658v-3.187
+		h5309.102v3.187H336.108z"/>
+	<path id="_x31_0_x5F_v.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M339.293,2561.178h-3.186
+		V118.991h3.186V2561.178z"/>
+	<path id="_x32_0_x5F_v.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M1394.742,2560.116h-3.186
+		V117.929h3.186V2560.116z"/>
+	<path id="_x33_0_x5F_v.svg" fill="none" stroke="#FFC000" stroke-width="16" stroke-miterlimit="10" d="M2462.934,2560.116h-3.186
+		V117.929h3.186V2560.116z"/>
+	<path id="_x34_0_x5F_v.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M3518.383,2561.178h-3.187
+		V118.991h3.187V2561.178z"/>
+	<path id="_x35_0_x5F_v.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M4575.957,2561.178h-3.187
+		V118.991h3.187V2561.178z"/>
+	<path id="_x36_0_x5F_v.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M5644.147,2561.178h-3.187
+		V118.991h3.187V2561.178z"/>
+	<path id="_x31_0_x5F_b.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M336.108,2580.291h3.186
+		v212.364h-3.186V2580.291z"/>
+	<path id="_x32_0_x5F_b.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M1392.618,2580.291h3.187
+		v212.364h-3.187V2580.291z"/>
+	<path id="_x33_0_x5F_b.svg" fill="none" stroke="#FFC000" stroke-width="16" stroke-miterlimit="10" d="M2458.687,2582.415h3.187
+		v212.363h-3.187V2582.415z"/>
+	<path id="_x34_0_x5F_b.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M3515.198,2580.291h3.187
+		v212.364h-3.187V2580.291z"/>
+	<path id="_x35_0_x5F_b.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M4573.832,2581.354h3.186
+		v212.363h-3.186V2581.354z"/>
+	<path id="_x36_0_x5F_b.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M5642.022,2581.354h3.187
+		v212.363h-3.187V2581.354z"/>
+	<path id="_x31_0_x5F_01s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M435.919,2633.382h3.186
+		v106.184h-3.186V2633.382z"/>
+	<path id="_x31_0_x5F_02s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M541.038,2633.382h3.187
+		v106.184h-3.187V2633.382z"/>
+	<path id="_x31_0_x5F_03s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M647.221,2633.382h3.186
+		v106.184h-3.186V2633.382z"/>
+	<path id="_x31_0_x5F_04s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M754.462,2633.382h3.188
+		v106.184h-3.188V2633.382z"/>
+	<path id="_x31_0_x5F_05s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M858.523,2633.382h3.187
+		v106.184h-3.187V2633.382z"/>
+	<path id="_x31_0_x5F_06s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M965.767,2633.382h3.186
+		v106.184h-3.186V2633.382z"/>
+	<path id="_x31_0_x5F_07s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M1071.948,2633.382h3.187
+		v106.184h-3.187V2633.382z"/>
+	<path id="_x31_0_x5F_08s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M1181.317,2633.382h3.184
+		v106.184h-3.184V2633.382z"/>
+	<path id="_x31_0_x5F_09s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M1283.252,2633.382h3.185
+		v106.184h-3.185V2633.382z"/>
+	<path id="_x32_0_x5F_01s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M1498.801,2632.32h3.186
+		v106.182h-3.186V2632.32z"/>
+	<path id="_x32_0_x5F_02s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M1603.921,2632.32h3.186
+		v106.182h-3.186V2632.32z"/>
+	<path id="_x32_0_x5F_03s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M1710.103,2632.32h3.187
+		v106.182h-3.187V2632.32z"/>
+	<path id="_x32_0_x5F_04s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M1817.347,2632.32h3.185
+		v106.182h-3.185V2632.32z"/>
+	<path id="_x32_0_x5F_05s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M1921.406,2632.32h3.187
+		v106.182h-3.187V2632.32z"/>
+	<path id="_x32_0_x5F_06s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M2028.65,2632.32h3.186
+		v106.182h-3.186V2632.32z"/>
+	<path id="_x32_0_x5F_07s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M2134.832,2632.32h3.185
+		v106.182h-3.185V2632.32z"/>
+	<path id="_x32_0_x5F_08s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M2244.198,2632.32h3.187
+		v106.182h-3.187V2632.32z"/>
+	<path id="_x32_0_x5F_09s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M2346.134,2632.32h3.186
+		v106.182h-3.186V2632.32z"/>
+	<path id="_x33_0_x5F_01s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M2560.621,2632.32h3.186
+		v106.182h-3.186V2632.32z"/>
+	<path id="_x33_0_x5F_02s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M2665.741,2632.32h3.186
+		v106.182h-3.186V2632.32z"/>
+	<path id="_x33_0_x5F_03s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M2771.924,2632.32h3.186
+		v106.182h-3.186V2632.32z"/>
+	<path id="_x33_0_x5F_04s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M2879.168,2632.32h3.186
+		v106.182h-3.186V2632.32z"/>
+	<path id="_x33_0_x5F_05s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M2983.226,2632.32h3.187
+		v106.182h-3.187V2632.32z"/>
+	<path id="_x33_0_x5F_06s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M3090.469,2632.32h3.186
+		v106.182h-3.186V2632.32z"/>
+	<path id="_x33_0_x5F_07s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M3196.653,2632.32h3.187
+		v106.182h-3.187V2632.32z"/>
+	<path id="_x33_0_x5F_08s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M3306.02,2632.32h3.186
+		v106.182h-3.186V2632.32z"/>
+	<path id="_x33_0_x5F_09s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M3407.952,2632.32h3.187
+		v106.182h-3.187V2632.32z"/>
+	<path id="_x34_0_x5F_01s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M3622.442,2633.382h3.186
+		v106.184h-3.186V2633.382z"/>
+	<path id="_x34_0_x5F_02s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M3727.563,2633.382h3.186
+		v106.184h-3.186V2633.382z"/>
+	<path id="_x34_0_x5F_03s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M3833.743,2633.382h3.187
+		v106.184h-3.187V2633.382z"/>
+	<path id="_x34_0_x5F_04s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M3940.989,2633.382h3.187
+		v106.184h-3.187V2633.382z"/>
+	<path id="_x34_0_x5F_05s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M4045.047,2633.382h3.186
+		v106.184h-3.186V2633.382z"/>
+	<path id="_x34_0_x5F_06s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M4152.291,2633.382h3.186
+		v106.184h-3.186V2633.382z"/>
+	<path id="_x34_0_x5F_07s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M4258.473,2633.382h3.186
+		v106.184h-3.186V2633.382z"/>
+	<path id="_x34_0_x5F_08s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M4367.84,2633.382h3.186
+		v106.184h-3.186V2633.382z"/>
+	<path id="_x34_0_x5F_09s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M4469.774,2633.382h3.187
+		v106.184h-3.187V2633.382z"/>
+	<path id="_x35_0_x5F_01s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M4686.387,2633.382h3.184
+		v106.184h-3.184V2633.382z"/>
+	<path id="_x35_0_x5F_02s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M4791.506,2633.382h3.186
+		v106.184h-3.186V2633.382z"/>
+	<path id="_x35_0_x5F_03s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M4897.688,2633.382h3.186
+		v106.184h-3.186V2633.382z"/>
+	<path id="_x35_0_x5F_04s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M5004.932,2633.382h3.186
+		v106.184h-3.186V2633.382z"/>
+	<path id="_x35_0_x5F_05s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M5108.99,2633.382h3.186
+		v106.184h-3.186V2633.382z"/>
+	<path id="_x35_0_x5F_06s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M5216.233,2633.382h3.187
+		v106.184h-3.187V2633.382z"/>
+	<path id="_x35_0_x5F_07s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M5322.416,2633.382h3.186
+		v106.184h-3.186V2633.382z"/>
+	<path id="_x35_0_x5F_08s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M5431.783,2633.382h3.186
+		v106.184h-3.186V2633.382z"/>
+	<path id="_x35_0_x5F_09s.svg" fill="none" stroke="#333" stroke-width="4" stroke-miterlimit="10" d="M5533.719,2633.382h3.186
+		v106.184h-3.186V2633.382z"/>
+</g>
+<g id="legend">
+	<text transform="matrix(1 0 0 1 255.9387 2925.085)" font-family="'Open Sans'" font-size="84">1990</text>
+	<text transform="matrix(1 0 0 1 1304.4866 2925.085)" font-family="'Open Sans'" font-size="84">2000</text>
+	<text transform="matrix(1 0 0 1 2375.8635 2925.085)" font-family="'Open Sans'" font-size="84">2010</text>
+	<text transform="matrix(1 0 0 1 3431.3147 2925.085)" font-family="'Open Sans'" font-size="84">2020</text>
+	<text transform="matrix(1 0 0 1 4485.7012 2924.0234)" font-family="'Open Sans'" font-size="84">2030</text>
+	<text transform="matrix(1 0 0 1 5558.1387 2925.085)" font-family="'Open Sans'" font-size="84">2040</text>
+</g>
+<g id="projects">
+	<g id="RI">
+		<rect x="336.108" y="241.188" fill="#C00000" width="4561.58" height="229.307"/>
+		<text transform="matrix(1 0 0 1 2134.8313 402.5527)" fill="#FFFFFF" font-family="'Open Sans'" font-size="127.4185">Regesta Imperii (ab 1979)</text>
+	</g>
+	<g id="DFD">
+		<rect x="2668.927" y="614.021" fill="#59922B" width="2443.249" height="229.309"/>
+		<text transform="matrix(1 0 0 1 2834.5706 774.3242)" fill="#FFFFFF" font-family="'Open Sans'" font-size="127.4185">Digitales Familiennamenwörterbuch</text>
+	</g>
+	<g id="CVMA">
+		<rect x="337.17" y="1005.892" fill="#4F81BD" width="4240.91" height="229.309"/>
+		<text transform="matrix(1 0 0 1 1696.2991 1159.8311)" fill="#FFFFFF" font-family="'Open Sans'" font-size="127.4185">Corpus Vitrearum Medii Aevi (ab 1979)</text>
+	</g>
+	<g id="Funde">
+		<rect x="1817.347" y="1410.165" fill="#B178B1" width="1593.792" height="229.308"/>
+		<text transform="matrix(1 0 0 1 1923.5286 1563.3076)" fill="#FFFFFF" font-family="'Open Sans'" font-size="127.4185">Funde der ä. Bronzezeit</text>
+	</g>
+	<g id="CM">
+		<rect x="2451.618" y="1811.438" fill="#453D3F" width="1807.855" height="229.309"/>
+		<text id="Corpus_Monodicum" transform="matrix(1.0039 0 0 1 2736.2268 1964.5811)" fill="#FFFFFF" font-family="'Open Sans'" font-size="127.4185">Corpus Monodicum</text>
+	</g>
+	<g id="Goethe">
+		<rect x="2992.781" y="2199.891" fill="#D17905" width="2648.182" height="229.309"/>
+		<text id="Corpus_Monodicum_1_" transform="matrix(1 0 0 1 3730.7483 2358.3428)" fill="#FFFFFF" font-family="'Open Sans'" font-size="127.4185">Goethe PROPYLÄEN</text>
+	</g>
+</g>
+</svg>
